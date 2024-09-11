@@ -1,5 +1,9 @@
 # Pendule de Foucault
 
+La vidéo :
+
+https://www.youtube.com/watch?v=JHd4kk0VXgs
+
 ## Mise en équation
 
 ### Les notations
