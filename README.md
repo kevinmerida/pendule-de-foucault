@@ -48,3 +48,7 @@ l^2\ddot{x}&=-xy\gamma_y-xz\gamma_z+(l^2-x^2)\gamma_x-xv^2\\
 l^2\ddot{y}&=-yx\gamma_x-yz\gamma_z+(l^2-y^2)\gamma_y-yv^2
 \end{align}
 $$
+
+## Programmes et résultats
+
+Le programme [**pend_v2.py**](Code/pend_v2.py) contient les fonctions permettant de réaliser les simulations numériques, puis de visualiser les résultats. Le notebook [**pend_v2.ipynb**](Notebook/pend_v2.ipynb) donne quelques exemples d'appels à ces fonctions.
