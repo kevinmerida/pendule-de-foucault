@@ -46,12 +46,12 @@ Au final, on détermine complètement le mouvement avec les coordonnées $x$ et 
 
 L'équation dynamique avec l'état
 
-$$(\begin{matrix}
+$$\left(\begin{matrix}
 x\\
 y\\
 \dot{x}\\
 \dot{y}
-\end{matrix})$$
+\end{matrix}\right)$$
 
 est alors :
 
